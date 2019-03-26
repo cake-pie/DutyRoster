@@ -11,7 +11,7 @@ namespace DutyRoster
     {
         public static bool Loaded = false;
 
-        /// <summary>
+        /// <summary> 
         /// List of all tracked kerbals
         /// </summary>
         public static DutyRosterList DutyRosterList { get; set; } = new DutyRosterList();
