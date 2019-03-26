@@ -1,0 +1,25 @@
+{
+  "NAME": "DutyRoster",
+  "URL": "https://github.com/Wile1411/DutyRoster/raw/master/DutyRoster.version",
+  "DOWNLOAD": "https://github.com/Wile1411/DutyRoster/releases/latest",
+  "VERSION": {
+    "MAJOR": 0,
+    "MINOR": 5,
+    "PATCH": 5,
+    "BUILD": 0
+  },
+  "KSP_VERSION": {
+    "MAJOR": 1,
+    "MINOR": 6,
+    "PATCH": 1
+  },
+  "KSP_VERSION_MIN": {
+    "MAJOR": 1,
+    "MINOR": 5,
+    "PATCH": 0
+  },
+  "GITHUB": {
+    "USERNAME": "Wile1411",
+    "REPOSITORY": "DutyRoster"
+  }
+}
